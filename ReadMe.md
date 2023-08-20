@@ -33,10 +33,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadrezarouhani&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-### 📈 My GitHub Contributions
-![](https://github.com/mohammadrezarouhani/mohammadrezarouhani/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
