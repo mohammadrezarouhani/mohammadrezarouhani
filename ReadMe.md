@@ -33,5 +33,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadrezarouhani&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
-![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
-![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/mohammadrezarouhani/mohammadrezarouhani/blob/output/github-contribution-grid-snake.gif)
