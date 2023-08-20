@@ -32,5 +32,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohammadrezarouhani&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/mohammadrezarouhani/mohammadrezarouhani/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/mohammadrezarouhani/mohammadrezarouhani/blob/output/github-contribution-grid-snake.svg)
